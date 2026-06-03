@@ -5,4 +5,5 @@
 **Tech Stack:** 
 - HTML, CSS, Power BI
 
-Digital engagement platform designed to support community outreach, volunteer participation, and organizational impact reporting for a nonprofit organization.
+**Highlights:**
+- Digital engagement platform designed to support community outreach, volunteer participation, and organizational impact reporting for a nonprofit organization.
